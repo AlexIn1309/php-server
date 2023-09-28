@@ -1,8 +1,8 @@
 <?php
 // Database credentials
 $servername = "localhost";
-$username = "root";
-$password = "Cesar1309";
+$username = "english_access";
+$password = "miContrasenya&321";
 $dbname = "english";
 
 // Establish a connection to MySQL
