@@ -1,6 +1,6 @@
-// César A. Morán
-// This is the first contact with user
-// Basicly, is the Login Page, in this moment, purely in HTML
+<!-- César A. Morán
+This is the first contact with user
+Basicly, is the Login Page, in this moment, purely in HTML -->
 <!DOCTYPE html>
 <html lang="en">
 <head>

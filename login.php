@@ -1,12 +1,4 @@
 <?php
-// Database credentials
-$servername = "localhost";
-$username = "english_access";
-$password = "miContrasenya&321";
-$dbname = "english";
-
-// Establish a connection to MySQL
-$connection = mysqli_connect($servername, $username, $password, $dbname);
 
 // Check if the connection was successful
 if (!$connection) {
